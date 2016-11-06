@@ -415,12 +415,12 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         
     
             
-        else if (classFive.indexOfSelectedItem == 3){
-            tempFive += 0.50
+       if (classSeven.indexOfSelectedItem == 3){
+            tempSeven += 0.50
         }
             
-        else if (classFive.indexOfSelectedItem == 4){
-            tempFive += 1.00
+        else if (classSeven.indexOfSelectedItem == 4){
+            tempSeven += 1.00
         }
         
         if (gradeSeven.indexOfSelectedItem == 0 || classSeven.indexOfSelectedItem == 0){
@@ -429,8 +429,6 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         }
         
         preResult = (tempOne + tempTwo + tempThree + tempFour + tempFive + tempSix + tempSeven)
-        
-      
         
         result = preResult/numSub
         
@@ -445,7 +443,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         let result : Double = calculateGPA()
         var gg : String
   
-        gg = String(result)
+       gg =  String(format: "%.2f", result)
+        //gg = String(result)
         
         
         self.resultLabel.stringValue = "Your GPA is: " + gg
