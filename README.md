@@ -10,6 +10,9 @@ November 6th, 2016: Initial Release (1.0).
 Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalculator.app.zip
 Click on "Download"
 
+# Current Issues
+Ver 1.0: I have no idea how school rounds up GPA, so the program shows infinite number of decimal numbers for now.
+
 # Q&As
 Q: How do you use this?
 A: Enter your class name (optional), select your Letter Grade and class level (Regular, Honor or AP) and simply hit the calculate button.
