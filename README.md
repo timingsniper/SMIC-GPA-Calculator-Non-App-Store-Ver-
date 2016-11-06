@@ -7,7 +7,8 @@ Website: http://jjw8386.wixsite.com/smic-gpa-calculator
 November 6th, 2016: Initial Release (1.0).
 
 # Download
-Link: 
+Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalculator.app.zip
+Click on "Download"
 
 # Q&As
 Q: How do you use this?
