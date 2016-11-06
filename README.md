@@ -1,4 +1,4 @@
-# GPACalculator
+# SMIC GPACalculator
 Mac GPA Calculator Application for SMIC Students made by Percy Joonwoo Jang & SMIC Computer Club.
 
 Website: http://jjw8386.wixsite.com/smic-gpa-calculator
@@ -9,6 +9,7 @@ November 6th, 2016: Initial Release (1.0).
 # Download
 Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalculator.app.zip
 Click on "Download"
+For installation, move the GPACalculator.app file to "Applications" folder.
 
 # Current Issues
 Ver 1.0: I have no idea how school rounds up GPA, so the program shows infinite number of decimal numbers for now.
