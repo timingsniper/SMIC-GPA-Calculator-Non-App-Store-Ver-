@@ -12,6 +12,9 @@ Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalcula
 Click on "Download"
 For installation, move the GPACalculator.app file to "Applications" folder.
 
+If you are stuck with error saying "unidentified developer", follow the following guide: 
+http://christianboyce.com/open-app-unidentified-developer/
+
 # Current Issues
 Ver 1.0: None yet.
 
