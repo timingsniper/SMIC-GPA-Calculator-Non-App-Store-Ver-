@@ -27,17 +27,21 @@ Ver 1.0: None yet.
 
 # Q&As
 Q: How do you use this?
+
 A: Enter your class name (optional), select your Letter Grade and class level (Regular, Honor or AP) and simply hit the calculate button.
 
 Q: Does the GPA shown on the application show the GPA that I will get from school, assuming I entered everything right?
+
 A: There will be an error margin of +- 0.1, as I am still unsure how the school's system of rounding up decimal goes.
    But this will still be a good representation of what you will get, assuming you entered everything right. Be assured 
    because this program was made according to SMIC grading rule (from SMIC Student Handbook)
 
 Q: Where's my windows version? May the curse of Bill Gates on you.
+
 A: I'm sorry... this was written in Swift, Apple's programming language so only mac version for now...
 
 Q: Are you planning on releasing this for other platforms as well?
+
 A: Most likely iPhone, and also maybe windows. (With Java) Stay tuned.
 
 # Contact
