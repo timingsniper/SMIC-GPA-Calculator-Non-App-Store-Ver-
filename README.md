@@ -13,7 +13,10 @@ Click on "Download"
 For installation, move the GPACalculator.app file to "Applications" folder.
 
 If you are stuck with error saying "unidentified developer", follow the following guide: 
-http://christianboyce.com/open-app-unidentified-developer/
+1. Open your Mac settings, go to Security & Privacy (House-shaped icon)
+2. Press the lock icon on the lower left side, enter your password.
+3. Select "Anywhere" from "Allow apps downloaded from" section.
+4. Confirm, and try installing the app again.
 
 # Current Issues
 Ver 1.0: None yet.
