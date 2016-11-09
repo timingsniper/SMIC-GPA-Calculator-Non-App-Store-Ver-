@@ -1,5 +1,7 @@
 # SMIC GPACalculator
-Mac GPA Calculator Application for SMIC Students made by Percy Joonwoo Jang & SMIC Computer Club.
+Mac GPA Calculator Application for SMIC Students
+
+Made by Percy Joonwoo Jang & SMIC Computer Club.
 macOS 10.10+ required.
 
 Website: http://jjw8386.wixsite.com/smic-gpa-calculator
