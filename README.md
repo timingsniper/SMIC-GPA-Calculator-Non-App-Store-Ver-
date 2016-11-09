@@ -16,13 +16,15 @@ For installation, move the GPACalculator.app file to "Applications" folder.
 
 If you are stuck with error saying "unidentified developer", follow the following guide: 
 
-1. Open your Mac settings, go to Security & Privacy (House-shaped icon)
+1. Open your Mac settings, go to Security & Privacy (House-shaped icon, Korean: 보안 및 개인정보 보호, Chinese: 安全与隐私)
 
 2. Press the lock icon on the lower left side, enter your password.
 
 3. Select "Anywhere" from "Allow apps downloaded from" section.
 
 4. Confirm, and try installing the app again.
+
+Feel free to email/wechat me if there are problems regarding installation. (Contact information provided below)
 
 # Current Issues
 Ver 1.0: None yet.
