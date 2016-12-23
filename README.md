@@ -4,10 +4,10 @@ Mac GPA Calculator Application for SMIC Students
 Made by Percy Joonwoo Jang & SMIC Computer Club.
 macOS 10.10+ required.
 
-Website: http://jjw8386.wixsite.com/smic-gpa-calculator
+Website: http://smicstudenttools.weebly.com
 
 # Release Notes
-November 6th, 2016: Initial Release (1.0).
+December 23rd, 2016: Initial Release (1.0).
 
 # Download
 Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalculator.app.zip
@@ -32,13 +32,8 @@ Ver 1.0: None yet.
 # Q&As
 Q: How do you use this?
 
-A: Enter your class name (optional), select your Letter Grade and class level (Regular, Honor or AP) and simply hit the calculate button.
-
-Q: Does the GPA shown on the application show the GPA that I will get from school, assuming I entered everything right?
-
-A: There will be an error margin of +- 0.1, as I am still unsure how the school's system of rounding up decimal goes.
-   But this will still be a good representation of what you will get, assuming you entered everything right. Be assured 
-   because this program was made according to SMIC grading rule (from SMIC Student Handbook)
+A: Enter your category name (optional), enter your category weight (must sum up to 100%) and grade for each category and press   
+   calculate button.
 
 Q: Where's my windows version? May the curse of Bill Gates on you.
 
@@ -52,4 +47,4 @@ A: Most likely iPhone, and also maybe windows. (With Java) Stay tuned.
 Email: smicjangpercy@hotmail.com
 Wechat: jjw8386
 
-Or use the email form on the website. Any feedbacks are welcome.
+Please take a look at the website:)
