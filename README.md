@@ -13,7 +13,8 @@ Website: http://smicstudenttools.weebly.com
 December 23rd, 2016: Initial Release (1.0).
 
 # Download
-Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalculator.app.zip
+Mac Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalculator.app.zip
+Windows Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPA%20Calculator%20(Windows).exe
 Click on "Download"
 Mac: For installation, move the GPACalculator.app file to "Applications" folder.
 
