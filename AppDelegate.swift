@@ -444,7 +444,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         var gg : String
   
        gg =  String(format: "%.2f", result)
-        //gg = String(result)
+
         
         
         self.resultLabel.stringValue = "Your GPA is: " + gg
