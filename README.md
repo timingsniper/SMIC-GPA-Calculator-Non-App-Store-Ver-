@@ -16,6 +16,7 @@ December 23rd, 2016: Initial Release (1.0).
 Mac Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalculator.app.zip
 Windows Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPA%20Calculator%20(Windows).exe
 Click on "Download"
+
 Mac: For installation, move the GPACalculator.app file to "Applications" folder.
 
 If you are stuck with error saying "unidentified developer", follow the following guide: 
@@ -39,6 +40,7 @@ Q: How do you use this?
 A: Enter your category name (optional), enter your category weight (must sum up to 100%) and grade for each category and press   
    calculate button.
 
+Q: Are you planning to release this for other platforms as well?
 A: Most likely iPhone. Stay tuned.
 
 # Contact
