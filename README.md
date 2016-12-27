@@ -1,8 +1,11 @@
 # SMIC GPACalculator
 Mac GPA Calculator Application for SMIC Students
 
-Made by Percy Joonwoo Jang & SMIC Computer Club.
-macOS 10.10+ required.
+Made by Percy Joonwoo Jang (Mac version), Thomas Jaeuk Choi (Windows Version) & SMIC Computer Club.
+
+Mac version: macOS 10.10+ required.
+
+Windows version: Java needs to be installed.
 
 Website: http://smicstudenttools.weebly.com
 
@@ -12,7 +15,7 @@ December 23rd, 2016: Initial Release (1.0).
 # Download
 Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalculator.app.zip
 Click on "Download"
-For installation, move the GPACalculator.app file to "Applications" folder.
+Mac: For installation, move the GPACalculator.app file to "Applications" folder.
 
 If you are stuck with error saying "unidentified developer", follow the following guide: 
 
@@ -35,16 +38,11 @@ Q: How do you use this?
 A: Enter your category name (optional), enter your category weight (must sum up to 100%) and grade for each category and press   
    calculate button.
 
-Q: Where's my windows version? May the curse of Bill Gates on you.
-
-A: I'm sorry... this was written in Swift, Apple's programming language so only mac version for now...
-
-Q: Are you planning on releasing this for other platforms as well?
-
-A: Most likely iPhone, and also maybe windows. (With Java) Stay tuned.
+A: Most likely iPhone. Stay tuned.
 
 # Contact
-Email: smicjangpercy@hotmail.com
-Wechat: jjw8386
+Email: smicjangpercy@hotmail.com (Percy, Mac version inquiry) choithomas99@yahoo.com (Thomas, Windows version inquiry)
+
+Wechat: jjw8386 (Percy), riceghost99 (Thomas)
 
 Please take a look at the website:)
